@@ -14,6 +14,9 @@ public class Main {
         // vanishes
         int count;
 
+        NewClass newClass = new NewClass();
+
+        NewEpicClass newEpicClass = new NewEpicClass();
 
     }
 }
